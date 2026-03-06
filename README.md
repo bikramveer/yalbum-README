@@ -12,27 +12,27 @@ A secure, invitation-only photo sharing application for private groups to collab
 
 ## Features
 
-### 🔐 Security & Privacy
+### Security & Privacy
 - Row-level security (RLS) policies across all database tables
 - Private storage buckets with cryptographically signed URLs
 - JWT-based authentication with automatic session refresh
 - Album members can only view photos from albums they're invited to
 
-### 📸 Photo Management
+### Photo Management
 - Upload multiple photos from device gallery
 - Organize photos into custom folders with color-coding
 - Bulk operations: select, move, download, and delete multiple photos
 - Smart downloads: individual files (1-9 photos) or automatic ZIP bundling (10+)
 - Pull-to-refresh to update photo grid
 
-### 👥 Collaboration
+### Collaboration
 - Create unlimited private albums with custom themes
 - Generate secure 6-character invite codes (7-day expiry)
 - Role-based permissions (owners vs. members)
 - Real-time commenting system with nested replies
 - See who uploaded each photo with timestamps
 
-### 🎨 User Experience
+### User Experience
 - Responsive mobile-first design
 - Custom confirmation modals and toast notifications
 - Automatic photo refresh when returning to albums
@@ -72,28 +72,13 @@ This project involved:
 - Implementing intelligent download logic that adapts based on selection size
 - Building a React Native mobile app that shares the same backend infrastructure
 
-## Local Development
-```bash
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env.local
-# Add your Supabase URL and anon key
-
-# Run development server
-npm run dev
-```
-
 ## Deployment
 
 - **Web App:** Deployed on Netlify with automatic CI/CD
 - **Database:** Hosted on Supabase cloud platform
 - **Mobile App:** Built with Expo EAS, available on TestFlight
 
-## Screenshots
-
-[Add screenshots of key features]
+// ## Screenshots
 
 ## License
 
@@ -101,4 +86,4 @@ MIT
 
 ## Contact
 
-[Your Name] - [Your Email/LinkedIn]
+Bikramveer Gill - [LinkedIn](https://www.linkedin.com/in/bikramveer-gill/)
