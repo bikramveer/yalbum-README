@@ -78,7 +78,7 @@ This project involved:
 - **Database:** Hosted on Supabase cloud platform
 - **Mobile App:** Built with Expo EAS, available on TestFlight
 
-// ## Screenshots
+## Screenshots
 
 ## License
 
