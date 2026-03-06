@@ -2,13 +2,11 @@
 
 A secure, invitation-only photo sharing application for private groups to collaboratively organize and share memories.
 
-🔗 **Live Demo:** [your-deployed-url.netlify.app](https://your-url.com)
-
 ## Demo Account
 
 **Try it out with read-only access:**
 - Email: `test@test.com`
-- Password: `demo123`
+- Password: `123456`
 
 *Note: Demo accounts can view all features but cannot upload photos or create albums. [Sign up for free](#) to try full functionality.*
 
