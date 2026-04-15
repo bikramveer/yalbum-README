@@ -7,7 +7,7 @@ A secure, invitation-only photo sharing application for private groups to collab
 [![Download on App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)]([https://apps.apple.com/app/yalbum/idYOUR_APP_ID](https://apps.apple.com/us/app/yalbum-photo-albums/id6760424577))
 <!-- [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.yourcompany.yalbum) -->
 
-**Or try the [Web App](https://your-app-url.com) →**
+**Or try the [Web App]([https://your-app-url.com](https://yalbum.netlify.app/)) →**
 
 </div>
 
