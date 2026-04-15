@@ -2,6 +2,17 @@
 
 A secure, invitation-only photo sharing application for private groups to collaboratively organize and share memories.
 
+<div align="center">
+  
+[![Download on App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/app/yalbum/idYOUR_APP_ID)
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.yourcompany.yalbum)
+
+**Or try the [Web App](https://your-app-url.com) →**
+
+</div>
+
+---
+
 ## Demo Account
 
 **Try it out with read-only access:**
