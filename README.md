@@ -3,10 +3,16 @@
 A secure, invitation-only photo sharing application for private groups to collaboratively organize and share memories.
 
 <div align="start" style={ padding: "12px" }>
-  
-[![iOS App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white&style=for-the-badge)](https://apps.apple.com/us/app/yalbum-photo-albums/id6760424577)
+
+<a href="https://apps.apple.com/us/app/yalbum-photo-albums/id6760424577">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on App Store" height="60">
+</a>
+
+<a href="#">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60">
+</a>
+
 [![Web App](https://img.shields.io/badge/Try-Web%20App-14B8A6?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yalbum.netlify.app/)
-[![Android](https://img.shields.io/badge/Coming%20Soon-Google%20Play-gray?logo=google-play&logoColor=white&style=for-the-badge)](#)
 
 <!-- **Or try the [Web App](https://your-app-url.com) →** -->
 
