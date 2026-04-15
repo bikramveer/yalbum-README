@@ -4,15 +4,15 @@ A secure, invitation-only photo sharing application for private groups to collab
 
 <div align="start">
 
-<a href="https://apps.apple.com/us/app/yalbum-photo-albums/id6760424577" style={ textDecoration: "none" }>
+<a href="https://apps.apple.com/us/app/yalbum-photo-albums/id6760424577" style="textDecoration: none">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on App Store" height="60">
 </a>
 
-<a href="#" style={ textDecoration: "none" }>
+<a href="#" style="textDecoration: none">
   <img src="https://i0.wp.com/ipaybetter.com/wp-content/uploads/2024/05/google-play-badge-coming-soon.png?ssl=1" alt="Get it on Google Play" height="40">
 </a>
 
-<a href="https://yalbum.netlify.app/" style={ textDecoration: "none" }>
+<a href="https://yalbum.netlify.app/" style="textDecoration: none">
   <img src="https://managemypainapp.com/images/tild3438-6235-4664-b733-373035323530__open_web_app_badgeen.png" alt="Try the Web App" height="40">
 </a>
 
