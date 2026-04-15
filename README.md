@@ -13,7 +13,7 @@ A secure, invitation-only photo sharing application for private groups to collab
 </a>
 
 <a href="https://yalbum.netlify.app/">
-  <img src="https://img.shields.io/badge/Try-Web%20App-14B8A6?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Try the Web App" height="40">
+  <img src="https://managemypainapp.com/images/tild3438-6235-4664-b733-373035323530__open_web_app_badgeen.png" alt="Try the Web App" height="40">
 </a>
 
 <!-- [![Web App](https://img.shields.io/badge/Try-Web%20App-14B8A6?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yalbum.netlify.app/) -->
