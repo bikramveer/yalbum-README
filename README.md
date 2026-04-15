@@ -2,7 +2,7 @@
 
 A secure, invitation-only photo sharing application for private groups to collaboratively organize and share memories.
 
-<div align="start">
+<div align="start" style={ padding: "12px" }>
   
 [![iOS App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white&style=for-the-badge)](https://apps.apple.com/us/app/yalbum-photo-albums/id6760424577)
 [![Web App](https://img.shields.io/badge/Try-Web%20App-14B8A6?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yalbum.netlify.app/)
