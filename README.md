@@ -2,14 +2,14 @@
 
 A secure, invitation-only photo sharing application for private groups to collaboratively organize and share memories.
 
-<div align="start" style={ padding: "12px" }>
+<div align="start">
 
 <a href="https://apps.apple.com/us/app/yalbum-photo-albums/id6760424577">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on App Store" height="60">
 </a>
 
 <a href="#">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60">
+  <img src="https://i0.wp.com/ipaybetter.com/wp-content/uploads/2024/05/google-play-badge-coming-soon.png?ssl=1" alt="Get it on Google Play" height="60">
 </a>
 
 [![Web App](https://img.shields.io/badge/Try-Web%20App-14B8A6?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yalbum.netlify.app/)
