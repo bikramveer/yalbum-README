@@ -9,7 +9,7 @@ A secure, invitation-only photo sharing application for private groups to collab
 </a>
 
 <a href="#">
-  <img src="https://i0.wp.com/ipaybetter.com/wp-content/uploads/2024/05/google-play-badge-coming-soon.png?ssl=1" alt="Get it on Google Play" height="60">
+  <img src="https://i0.wp.com/ipaybetter.com/wp-content/uploads/2024/05/google-play-badge-coming-soon.png?ssl=1" alt="Get it on Google Play" height="40">
 </a>
 
 [![Web App](https://img.shields.io/badge/Try-Web%20App-14B8A6?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yalbum.netlify.app/)
